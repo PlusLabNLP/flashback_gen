@@ -1,11 +1,11 @@
 # Flashback Generation
-This is the public repo for our NAACL:'22 paper: Go Back in Time: Generating Flashbacks in Stories with Event Plots and
+This is the public repo for our NAACL'22 paper: Go Back in Time: Generating Flashbacks in Stories with Event Plots and
 Temporal Prompts.
 
 ### 0. Preliminary
 - environment: for reference, we export our environment in env.yml.
 - data: download data from here: https://drive.google.com/drive/folders/1LfHRfE_0HELmnKGOBT_vVB8PIiMArk1X?usp=sharing, and save it into `./data`
-- trained models: download trained models from the same link and save them into `./output/story_generation/facebook/`. 
+- trained models: download trained models from the same link. Create a new directory `./output/story_generation/facebook/`, and save models into it.
 
 
 ### 1. Replicating Results
